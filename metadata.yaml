@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '35615'
     url: http://www.gutenberg.org/2009/agents/35615
     wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+covers:
+- cover_type: archival
+  image_path: 51727-h/images/cover.jpg
 creator:
   author:
     agent_name: Leache, Joy
     gutenberg_agent_id: '46534'
     url: http://www.gutenberg.org/2009/agents/46534
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51727#Satisfaction-Guaranteed
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-10'
 gutenberg_type: Text
