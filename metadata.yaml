@@ -1,0 +1,39 @@
+_repo: Satisfaction-Guaranteed_51727
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Gaughan, Jack
+    aliases:
+    - Gaughan, John Brian Francis
+    - Gaughan
+    birthdate: 1930
+    deathdate: 1985
+    gutenberg_agent_id: '35615'
+    url: http://www.gutenberg.org/2009/agents/35615
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Gaughan
+creator:
+  author:
+    agent_name: Leache, Joy
+    gutenberg_agent_id: '46534'
+    url: http://www.gutenberg.org/2009/agents/46534
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51727'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'Business -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Extrasolar planets -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- GITenberg
+title: Satisfaction Guaranteed
+url: http://www.gutenberg.org/ebooks/51727
